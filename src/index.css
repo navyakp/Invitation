@@ -1,0 +1,124 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --color-ivory: #FAF6F0;
+  --color-soft-ivory: #F7F2EC;
+  --color-beige: #E9DDD1;
+  --color-terracotta: #986B58;
+  --color-dusty-brown: #795345;
+  --color-chocolate: #442E25;
+  --color-champagne: #C5A58F;
+  --color-gold: #C5A059;
+}
+
+html {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-rendering: optimizeLegibility;
+}
+
+/* Custom Luxury Scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+}
+::-webkit-scrollbar-track {
+  background: rgba(247, 242, 236, 0.6);
+  backdrop-filter: blur(10px);
+}
+::-webkit-scrollbar-thumb {
+  background: #C5A58F;
+  border-radius: 4px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #986B58;
+}
+
+/* Translucent Luxury Frosted Stationery (Blends naturally with background & typography) */
+.glass-stationery {
+  background: rgba(250, 246, 240, 0.82);
+  backdrop-filter: blur(24px) saturate(1.2);
+  -webkit-backdrop-filter: blur(24px) saturate(1.2);
+  border: 1px solid rgba(255, 255, 255, 0.85);
+  box-shadow: 
+    0 25px 60px -15px rgba(68, 46, 37, 0.16),
+    0 1px 1px rgba(255, 255, 255, 0.9),
+    inset 0 0 0 1px rgba(197, 165, 143, 0.3);
+}
+
+.glass-stationery-card {
+  background: rgba(255, 255, 255, 0.72);
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+  border: 1px solid rgba(197, 165, 143, 0.35);
+  box-shadow: 0 10px 30px -6px rgba(68, 46, 37, 0.08);
+}
+
+.glass-input {
+  background: rgba(255, 255, 255, 0.75);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border: 1px solid rgba(197, 165, 143, 0.4);
+  color: #442E25;
+}
+.glass-input:focus {
+  background: rgba(255, 255, 255, 0.95);
+  border-color: #986B58;
+}
+
+/* Cursive Calligraphy (Optical natural weight without artificial thickening) */
+.font-script {
+  font-family: 'Great Vibes', 'MonteCarlo', cursive;
+  font-weight: 400;
+  letter-spacing: 0.02em;
+  line-height: 1.15;
+}
+
+/* Small Caps Serif Headings */
+.font-cinzel {
+  font-family: 'Cinzel', serif;
+  letter-spacing: 0.22em;
+}
+
+/* Kannada Typography Line Spacing and Curve Smoothing */
+.font-kannada {
+  font-family: 'Noto Serif Kannada', 'Anek Kannada', serif;
+  line-height: 1.65;
+}
+
+/* 3D Wax Seal Button */
+.wax-seal {
+  background: radial-gradient(circle at 35% 35%, #B3543A, #8A2D1B, #53160C);
+  box-shadow: 
+    0 6px 16px rgba(68, 46, 37, 0.35),
+    inset 0 2px 4px rgba(255, 255, 255, 0.35),
+    inset 0 -2px 4px rgba(0, 0, 0, 0.45);
+  position: relative;
+}
+.wax-seal::before {
+  content: '';
+  position: absolute;
+  inset: -3px;
+  border-radius: 50%;
+  border: 2px dashed rgba(255, 220, 180, 0.35);
+  pointer-events: none;
+}
+
+/* 3D Perspective utilities */
+.perspective-1000 {
+  perspective: 1200px;
+}
+.transform-style-3d {
+  transform-style: preserve-3d;
+}
+
+/* Reduced motion accessibility */
+@media (prefers-reduced-motion: reduce) {
+  *, ::before, ::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}
