@@ -60,7 +60,7 @@ export const Footer = ({ lang, t, config, onReplayIntro }) => {
         {/* Bottom Navigation & Replay Intro */}
         <div className="mt-10 pt-6 border-t border-[#C5A58F]/30 flex flex-col sm:flex-row items-center justify-between gap-4 text-xs text-[#442E25]">
           <span className="font-serif italic text-xs text-[#795345]">
-            {config.couple.hashtag} • Bengaluru, Karnataka
+            {config.couple.hashtag} • Challakere, Chitradurga
           </span>
 
           <div className="flex items-center gap-4">

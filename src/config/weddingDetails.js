@@ -78,20 +78,20 @@ export const weddingDetails = {
   // Venue & Address (Editable)
   venue: {
     name: {
-      en: "Sri Venkateshwara Kalyana Mantapa & Convention Hall",
-      kn: "ಶ್ರೀ ವೆಂಕಟೇಶ್ವರ ಕಲ್ಯಾಣ ಮಂಟಪ ಮತ್ತು ಕನ್ವೆನ್ಷನ್ ಹಾಲ್",
+      en: "Gayathri Kalyana Mantapa",
+      kn: "ಗಾಯತ್ರಿ ಕಲ್ಯಾಣ ಮಂಟಪ",
     },
     hall: {
       en: "Main Kalyana Mantapa & Dining Courtyard",
       kn: "ಪ್ರಧಾನ ಕಲ್ಯಾಣ ಮಂಟಪ ಮತ್ತು ಭೋಜನ ಶಾಲಾ ಪ್ರಾಂಗಣ",
     },
     address: {
-      en: "Bangalore – Mysore Highway, Near Kengeri Satellite Town, Bengaluru, Karnataka 560060",
-      kn: "ಬೆಂಗಳೂರು – ಮೈಸೂರು ಹೆದ್ದಾರಿ, ಕೆಂಗೇರಿ ಉಪನಗರದ ಹತ್ತಿರ, ಬೆಂಗಳೂರು, ಕರ್ನಾಟಕ 560060",
+      en: "Thyagarajanagar, Challakere, Chitradurga, Karnataka 577522",
+      kn: "ತ್ಯಾಗರಾಜನಗರ, ಚಳ್ಳಕೆರೆ, ಚಿತ್ರದುರ್ಗ, ಕರ್ನಾಟಕ 577522",
     },
-    city: "Bengaluru, Karnataka",
-    googleMapsUrl: "https://maps.google.com/?q=Sri+Venkateshwara+Kalyana+Mantapa+Bangalore",
-    googleMapsEmbedUrl: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3888.751167484439!2d77.47895397593717!3d12.92372481593856!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae3f7ec9d8f8a1%3A0xc3b53f65cf1f391a!2sKengeri%20Satellite%20Town%2C%20Bengaluru!5e0!3m2!1sen!2sin!4v1700000000000!5m2!1sen!2sin",
+    city: "Challakere, Chitradurga",
+    googleMapsUrl: "https://www.google.com/maps/search/?api=1&query=Gayatri+Kalyana+Mantapa+Thyagarajanagar+Challakere+Chitradurga",
+    googleMapsEmbedUrl: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3864.831557997843!2d76.64822537596003!3d14.313438914614686!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bb0b1a03975a593%3A0x6b1f24d3e33f3883!2sChallakere%2C%20Karnataka%20577522!5e0!3m2!1sen!2sin!4v1700000000000!5m2!1sen!2sin",
   },
 
   // Wedding Events (Pre-Wedding & Wedding Ceremony)
@@ -119,8 +119,8 @@ export const weddingDetails = {
         kn: "ಸಂಜೆ 6:30 ರಿಂದ",
       },
       venue: {
-        en: "Sri Venkateshwara Kalyana Mantapa",
-        kn: "ಶ್ರೀ ವೆಂಕಟೇಶ್ವರ ಕಲ್ಯಾಣ ಮಂಟಪ",
+        en: "Gayathri Kalyana Mantapa",
+        kn: "ಗಾಯತ್ರಿ ಕಲ್ಯಾಣ ಮಂಟಪ",
       },
       attire: {
         en: "Festive Traditional / Contemporary Silk",
@@ -151,8 +151,8 @@ export const weddingDetails = {
         kn: "ಧನುರ್ ಲಗ್ನ ಸುಮುಹೂರ್ತ: ಬೆಳಿಗ್ಗೆ 9:30 ರಿಂದ 10:15",
       },
       venue: {
-        en: "Sri Venkateshwara Kalyana Mantapa",
-        kn: "ಶ್ರೀ ವೆಂಕಟೇಶ್ವರ ಕಲ್ಯಾಣ ಮಂಟಪ",
+        en: "Gayathri Kalyana Mantapa",
+        kn: "ಗಾಯತ್ರಿ ಕಲ್ಯಾಣ ಮಂಟಪ",
       },
       attire: {
         en: "Traditional South Indian Silk (Pattu Saree / Dhoti)",

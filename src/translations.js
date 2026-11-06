@@ -36,7 +36,7 @@ export const translations = {
       weddingDate: "22 NOVEMBER 2026",
       weddingDay: "SUNDAY",
       muhurthamTime: "9:30 AM – 10:15 AM",
-      venueShort: "Sri Venkateshwara Kalyana Mantapa, Bengaluru",
+      venueShort: "Gayathri Kalyana Mantapa, Challakere",
       cordiallyInvited: "You are cordially invited to celebrate our wedding.",
       rsvpButton: "RSVP Now",
       eventsButton: "Wedding Events",
@@ -112,7 +112,7 @@ export const translations = {
     venue: {
       badge: "Getting There",
       heading: "Venue",
-      subtitle: "Sri Venkateshwara Kalyana Mantapa & Convention Hall, Bengaluru.",
+      subtitle: "Gayathri Kalyana Mantapa, Thyagarajanagar, Challakere, Chitradurga.",
       mainHall: "Main Kalyana Mantapa & Lawns",
       addressTitle: "Full Venue Address",
       openMaps: "Open in Google Maps",
@@ -127,7 +127,7 @@ export const translations = {
       names: "SINCHANA & VINAY",
       weddingDate: "22 NOVEMBER 2026",
       backToTop: "Back to Top",
-      designedWith: "Bohemian Luxury Wedding Stationery • Bengaluru",
+      designedWith: "Bohemian Luxury Wedding Stationery • Challakere",
     }
   },
 
@@ -162,7 +162,7 @@ export const translations = {
       weddingDate: "22 ನವೆಂಬರ್ 2026",
       weddingDay: "ಭಾನುವಾರ",
       muhurthamTime: "ಧನುರ್ ಲಗ್ನ ಮುಹೂರ್ತ: ಬೆಳಿಗ್ಗೆ 9:30 ರಿಂದ 10:15",
-      venueShort: "ಶ್ರೀ ವೆಂಕಟೇಶ್ವರ ಕಲ್ಯಾಣ ಮಂಟಪ, ಬೆಂಗಳೂರು",
+      venueShort: "ಗಾಯತ್ರಿ ಕಲ್ಯಾಣ ಮಂಟಪ, ಚಳ್ಳಕೆರೆ",
       cordiallyInvited: "ನಮ್ಮ ಮದುವೆಯ ಶುಭ ಸಂದರ್ಭದಲ್ಲಿ ತಮಗೆಲ್ಲರಿಗೂ ಆತ್ಮೀಯ ಸ್ವಾಗತ.",
       rsvpButton: "ಹಾಜರಾತಿ ದೃಢಪಡಿಸಿ",
       eventsButton: "ಸಮಾರಂಭಗಳ ವಿವರ",
@@ -238,7 +238,7 @@ export const translations = {
     venue: {
       badge: "ತಲುಪುವ ಮಾರ್ಗ",
       heading: "ಸ್ಥಳ",
-      subtitle: "ಶ್ರೀ ವೆಂಕಟೇಶ್ವರ ಕಲ್ಯಾಣ ಮಂಟಪ ಮತ್ತು ಕನ್ವೆನ್ಷನ್ ಹಾಲ್, ಬೆಂಗಳೂರು.",
+      subtitle: "ಗಾಯತ್ರಿ ಕಲ್ಯಾಣ ಮಂಟಪ, ತ್ಯಾಗರಾಜನಗರ, ಚಳ್ಳಕೆರೆ, ಚಿತ್ರದುರ್ಗ.",
       mainHall: "ಪ್ರಧಾನ ಕಲ್ಯಾಣ ಮಂಟಪ ಮತ್ತು ಭೋಜನ ಶಾಲಾ ಪ್ರಾಂಗಣ",
       addressTitle: "ಪೂರ್ಣ ವಿಳಾಸ",
       openMaps: "ಗೂಗಲ್ ಮ್ಯಾಪ್ಸ್‌ನಲ್ಲಿ ವೀಕ್ಷಿಸಿ",
@@ -253,7 +253,7 @@ export const translations = {
       names: "ಸಿಂಚನ ಮತ್ತು ವಿನಯ್",
       weddingDate: "22 ನವೆಂಬರ್ 2026",
       backToTop: "ಮೇಲಕ್ಕೆ ಹೋಗಿ",
-      designedWith: "ಬೊಹೆಮಿಯನ್ ಲಕ್ಸುರಿ ವಿವಾಹ ಆಮಂತ್ರಣ ಪತ್ರಿಕೆ • ಬೆಂಗಳೂರು",
+      designedWith: "ಬೊಹೆಮಿಯನ್ ಲಕ್ಸುರಿ ವಿವಾಹ ಆಮಂತ್ರಣ ಪತ್ರಿಕೆ • ಚಳ್ಳಕೆರೆ",
     }
   }
 };

@@ -12,7 +12,7 @@ A complete, luxury digital wedding invitation website built with **React**, **Vi
 - **Wedding Date:** 22 November 2026 (Sunday) / 22 ನವೆಂಬರ್ 2026 (ಭಾನುವಾರ)
 - **Wedding Muhurtham:** 9:30 AM – 10:15 AM (ಧನುರ್ ಲಗ್ನ ಸುಮುಹೂರ್ತ)
 - **Pre-Wedding Function:** 21 November 2026 (Saturday), 6:30 PM onwards (ಆತಿಥ್ಯ ಸಮಾರಂಭ ಮತ್ತು ವರಪೂಜೆ)
-- **Venue:** Sri Venkateshwara Kalyana Mantapa & Convention Hall, Bangalore – Mysore Highway, Bengaluru
+- **Venue:** Gayathri Kalyana Mantapa, Thyagarajanagar, Challakere, Chitradurga, Karnataka 577522 (ಗಾಯತ್ರಿ ಕಲ್ಯಾಣ ಮಂಟಪ, ತ್ಯಾಗರಾಜನಗರ, ಚಳ್ಳಕೆರೆ, ಚಿತ್ರದುರ್ಗ)
 - **Contact Numbers:** `9972145509`, `8867052409`
 - **Couple Hashtag:** `#SinchanaWedsVinay`
 
@@ -86,7 +86,7 @@ A complete, luxury digital wedding invitation website built with **React**, **Vi
    - "Upload Couple Photo" button for instant preview of personal photos.
 
 8. **Venue & Google Maps**
-   - Sri Venkateshwara Kalyana Mantapa address.
+   - Gayathri Kalyana Mantapa, Thyagarajanagar, Challakere, Chitradurga address.
    - Embedded Google Maps iframe and "Get Directions" button.
    - One-click "Copy Address" button with instant feedback.
 

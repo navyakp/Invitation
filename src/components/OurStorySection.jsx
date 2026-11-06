@@ -10,21 +10,21 @@ export const OurStorySection = ({ lang, t, config }) => {
       date: t.story.milestone1Date,
       title: t.story.milestone1Title,
       description: t.story.milestone1Desc,
-      image: "https://images.unsplash.com/photo-1501339847302-ac426a4a7cbb?auto=format&fit=crop&w=600&q=80",
+      image: "/images/couple-bridge.jpg",
     },
     {
       icon: Sunrise,
       date: t.story.milestone2Date,
       title: t.story.milestone2Title,
       description: t.story.milestone2Desc,
-      image: "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?auto=format&fit=crop&w=600&q=80",
+      image: "/images/couple-vintage-car.jpg",
     },
     {
       icon: Heart,
       date: t.story.milestone3Date,
       title: t.story.milestone3Title,
       description: t.story.milestone3Desc,
-      image: "https://images.unsplash.com/photo-1515934751635-c81c6bc9a2d8?auto=format&fit=crop&w=600&q=80",
+      image: "/images/couple-beach.jpg",
     },
   ];
 

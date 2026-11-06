@@ -151,7 +151,7 @@ export const VenueSection = ({ lang, t, config }) => {
           >
             <div className="relative w-full h-[360px] sm:h-[420px] rounded-2xl overflow-hidden bg-black/10">
               <iframe
-                title="Wedding Venue Location - Sri Venkateshwara Kalyana Mantapa"
+                title={lang === 'kn' ? "ವಿವಾಹ ಸ್ಥಳ - ಗಾಯತ್ರಿ ಕಲ್ಯಾಣ ಮಂಟಪ, ಚಳ್ಳಕೆರೆ" : "Wedding Venue Location - Gayathri Kalyana Mantapa, Challakere"}
                 src={config.venue.googleMapsEmbedUrl}
                 width="100%"
                 height="100%"
