@@ -85,23 +85,18 @@ A complete, luxury digital wedding invitation website built with **React**, **Vi
    - Full-screen lightbox with next/prev buttons and keyboard controls (`ArrowLeft`, `ArrowRight`, `Escape`).
    - "Upload Couple Photo" button for instant preview of personal photos.
 
-8. **RSVP Section with Supabase Integration**
-   - Form fields: Guest name, mobile number, guest count, attendance options (*Joyfully accepts / Regretfully declines*), dietary choice, and personal wishes.
-   - Direct Supabase database storage with transparent local storage fallback.
-   - Built-in Supabase SQL setup schema copy tool.
-
-9. **Venue & Google Maps**
+8. **Venue & Google Maps**
    - Sri Venkateshwara Kalyana Mantapa address.
    - Embedded Google Maps iframe and "Get Directions" button.
    - One-click "Copy Address" button with instant feedback.
 
-10. **Background Instrumental Music Player**
-    - Soft romantic flute & acoustic strings melody.
-    - Floating player with Play/Pause, Mute/Unmute, and volume indicator.
-    - Starts softly only after user clicks "OPEN INVITATION" or interacts.
-    - Web Audio API harmonic chime fallback for 100% offline reliability.
+9. **Background Instrumental Music Player**
+   - Soft romantic flute & acoustic strings melody.
+   - Floating player with Play/Pause, Mute/Unmute, and volume indicator.
+   - Starts softly only after user clicks "OPEN INVITATION" or interacts.
+   - Web Audio API harmonic chime fallback for 100% offline reliability.
 
-11. **Footer**
+10. **Footer**
     - "WE WOULD LOVE TO CELEBRATE THIS SPECIAL DAY WITH YOU."
     - "WITH LOVE"
     - SINCHANA & VINAY • 22 NOVEMBER 2026
@@ -119,7 +114,6 @@ src/
     Countdown.jsx               # Live countdown timer (22 Nov 2026, 9:30 AM)
     WeddingEvents.jsx           # Pre-Wedding Function & Wedding Ceremony cards
     PhotoGallery.jsx            # Masonry gallery & full-screen lightbox
-    RSVPForm.jsx                # Interactive RSVP with Supabase integration
     VenueSection.jsx            # Venue details & Google Maps
     MusicPlayer.jsx             # Floating background wedding instrumental player
     LanguageToggle.jsx          # English / Kannada switcher

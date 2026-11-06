@@ -21,7 +21,6 @@ export default defineConfig({
           vendor: ['react', 'react-dom'],
           motion: ['framer-motion'],
           icons: ['lucide-react'],
-          supabase: ['@supabase/supabase-js'],
         },
       },
     },

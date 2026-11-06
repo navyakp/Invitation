@@ -22,8 +22,7 @@ export const Navbar = ({ lang, setLang, t, config, onReplayIntro }) => {
     { name: t.nav.home, href: '#home' },
     { name: t.nav.events, href: '#events' },
     { name: t.nav.gallery, href: '#gallery' },
-    { name: t.nav.venue, href: '#venue' },
-    { name: t.nav.rsvp, href: '#rsvp', highlight: true },
+    { name: t.nav.venue, href: '#venue', highlight: true },
   ];
 
   const handleNavClick = (e, href) => {

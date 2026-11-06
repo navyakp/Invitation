@@ -215,13 +215,6 @@ export const weddingDetails = {
     url: "https://cdn.pixabay.com/download/audio/2022/05/16/audio_db6591201e.mp3?filename=romantic-wedding-love-112191.mp3",
   },
 
-  // Backend RSVP Configuration (Supabase)
-  supabase: {
-    url: import.meta.env.VITE_SUPABASE_URL || "",
-    anonKey: import.meta.env.VITE_SUPABASE_ANON_KEY || "",
-    tableName: "wedding_rsvps",
-  },
-
   // Color Palette Theme
   theme: {
     warmIvory: "#F7F2EC",

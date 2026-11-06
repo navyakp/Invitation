@@ -215,10 +215,10 @@ export const HeroSection = ({ lang, t, config }) => {
               {/* Action Buttons */}
               <div className="flex flex-wrap items-center justify-center gap-3 sm:gap-4 pt-1">
                 <a
-                  href="#rsvp"
+                  href="#events"
                   className="px-7 sm:px-9 py-3 rounded-full bg-gradient-to-r from-[#986B58] via-[#855B49] to-[#795345] text-[#FAF6F0] text-xs sm:text-[13px] font-cinzel tracking-[0.18em] uppercase shadow-md hover:shadow-lg hover:scale-102 transition-all font-medium"
                 >
-                  {t.hero.rsvpButton}
+                  {t.hero.eventsButton}
                 </a>
 
                 <button

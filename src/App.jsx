@@ -9,7 +9,6 @@ import { HeroSection } from './components/HeroSection';
 import { Countdown } from './components/Countdown';
 import { WeddingEvents } from './components/WeddingEvents';
 import { PhotoGallery } from './components/PhotoGallery';
-import { RSVPForm } from './components/RSVPForm';
 import { VenueSection } from './components/VenueSection';
 import { Footer } from './components/Footer';
 import { MusicPlayer } from './components/MusicPlayer';
@@ -102,13 +101,6 @@ export function App() {
 
           {/* Photo Gallery & Lightbox */}
           <PhotoGallery
-            lang={lang}
-            t={t}
-            config={weddingDetails}
-          />
-
-          {/* RSVP Form with Supabase Integration */}
-          <RSVPForm
             lang={lang}
             t={t}
             config={weddingDetails}
