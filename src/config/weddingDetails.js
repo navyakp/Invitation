@@ -211,8 +211,8 @@ export const weddingDetails = {
 
   // Background Audio Configuration
   audio: {
-    title: "Divine Flute & Strings — South Indian Wedding Melody",
-    url: "https://cdn.pixabay.com/download/audio/2022/05/16/audio_db6591201e.mp3?filename=romantic-wedding-love-112191.mp3",
+    title: "Traditional South Indian Wedding Shenai & Melam — KM Creative Works",
+    url: "/audio/wedding-song.m4a",
   },
 
   // Color Palette Theme
