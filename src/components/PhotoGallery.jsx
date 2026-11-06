@@ -114,7 +114,7 @@ export const PhotoGallery = ({ lang, t, config }) => {
                     src={item.url}
                     alt={title}
                     className="w-full h-full object-cover transition-transform duration-700 group-hover:scale-108 filter contrast-[1.04]"
-                    style={item.isFeatured ? { objectPosition: 'center 20%' } : {}}
+                    style={{ objectPosition: item.objectPosition || 'center center' }}
                     loading="lazy"
                   />
 
